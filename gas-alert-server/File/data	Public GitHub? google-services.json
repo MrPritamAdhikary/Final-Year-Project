@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12119941639",
+    "project_id": "gas-leakage-protection-system",
+    "storage_bucket": "gas-leakage-protection-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12119941639:android:0084a142b65240dbc800a2",
+        "android_client_info": {
+          "package_name": "appinventor.ai_mr_pritamadhikary.GasLeakageProtection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNaCT170B3mMvGdIqpMjjVc4e6kwPvZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
