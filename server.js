@@ -2,7 +2,7 @@ const { initializeApp, cert } = require("firebase-admin/app");
 const { getMessaging } = require("firebase-admin/messaging");
 const mqtt = require("mqtt");
 
-const serviceAccount = require("./serviceAccountKey.json");
+const serviceAccount = require("/serviceAccountKey.json");
 
 initializeApp({
   credential: cert(serviceAccount)
