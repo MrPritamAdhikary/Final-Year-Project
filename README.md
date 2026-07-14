@@ -601,7 +601,7 @@ Cloud.
 Open Command Prompt and navigate to the backend folder:
 
 ``` bash
-cd "C:\Users\HP\Desktop\Final Year Project\GasLeakageBackend"
+cd "C:\Users\xxx\xyz\Final Year Project\GasLeakageBackend"
 ```
 
 Run:
